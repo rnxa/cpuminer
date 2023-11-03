@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "description": "Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "script.google",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "script.google",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "shortcuts": []
+}
